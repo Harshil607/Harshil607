@@ -99,17 +99,11 @@ A React application for selecting and working with colors.
 I regularly practice Data Structures & Algorithms and competitive programming.
 
 <p align="left">
-  <a href="https://codeforces.com/profile/King-T">
+  <a href="https://codeforces.com/profile/shahharshil393">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/tanishq7361">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://leetcode.com/u/King-T_7361">
+  <a href="https://leetcode.com/u/shahharshil393">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codolio.com/profile/King-T">
-    <img src="https://img.shields.io/badge/Codolio-7289DA?style=for-the-badge" alt="Codolio" />
   </a>
 </p>
 
