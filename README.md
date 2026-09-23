@@ -16,7 +16,7 @@
 * 🍃 Working with **MongoDB** and SQL databases
 * 🧠 Practicing **Data Structures & Algorithms** using C++
 * 🖥️ Currently strengthening my knowledge of **Operating Systems** and **Computer Networks**
-* 🚀 Building my first full-stack projects from scratch
+* 🚀 Building full-stack projects from scratch
 
 ---
 
@@ -130,22 +130,14 @@ I regularly practice Data Structures & Algorithms and competitive programming.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:tanishq7361@gmail.com">
+  <a href="mailto:shahharshil393@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/tanishq-shah7">
+  <a href="https://www.linkedin.com/in/harshil-shah-421852420/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <h3 align="center">💻 Learn • Build • Solve • Repeat 🚀</h3>
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tanishq7361&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
