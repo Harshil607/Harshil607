@@ -1,58 +1,92 @@
 <div align="center">
 
-<img src="assets/nightshift.svg" width="100%" alt="Night Shift 07: Harshil Shah, full-stack developer and CSE student, building useful things after dark." />
+<img src="assets/header.svg" width="100%" alt="Harshil Shah: full-stack developer, competitive programmer and CSE student"/>
+
+<img src="assets/titles.svg" width="100%" alt="Full-Stack Developer · Competitive Programmer · CSE Student · MERN Stack Builder"/>
 
 <br/>
 
-<img src="assets/section-profile.svg" width="100%" alt="Operator file" />
+<img src="assets/h-about.svg" width="100%" alt="About me"/>
 
-<img src="assets/profile.svg" width="100%" alt="Harshil Shah's profile: full-stack web developer and CSE student working with React, Node.js, Express, MongoDB, SQL, and C++. Current loop: learn, build, repeat." />
+<img src="assets/about.svg" width="100%" alt="Focus: full-stack web development. Frontend: React. Backend: Node.js and Express.js. Databases: MongoDB and SQL. Practicing data structures and algorithms in C++. Studying operating systems and computer networks. Building full-stack projects from scratch."/>
 
-<img src="assets/trace.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="assets/section-loadout.svg" width="100%" alt="Field kit" />
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
-<img src="assets/loadout.svg" width="100%" alt="Frontend: React, Vite, JavaScript, HTML, CSS. Backend: Node.js, Express. Data: MongoDB, SQL. Problem solving: C++." />
+<img src="assets/stack.svg" width="100%" alt="Languages: C, C++, JavaScript, HTML5, CSS3. Frontend: React, Vite. Backend: Node.js, Express.js. Databases: MongoDB, SQL. Tools: Git, GitHub, VS Code."/>
 
-<img src="assets/trace.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="assets/section-projects.svg" width="100%" alt="Signals intercepted" />
+<img src="assets/h-projects.svg" width="100%" alt="Featured projects"/>
+<a href = "https://github.com/Harshil607/Gaming-Tinder">
+<img src="assets/project-gaming-tinder.svg" width="100%" alt="Gaming Tinder: a full-stack Tinder-inspired app where users swipe on games and get recommendations from their swipe history. React, Node.js, Express.js, MongoDB."/>
+</a>
+<a href="https://github.com/Harshil607/Product-Gallery">
+<img src="assets/project-product-gallery.svg" width="100%" alt="Product Gallery: a full-stack CRUD app for managing products. React frontend, Node and Express backend, MongoDB."/>
+</a>
+<a href = "https://github.com/Harshil607/Color-Picker">
+<img src="assets/project-color-picker.svg" width="100%" alt="Color Picker: a React application for selecting and working with colors. React, JavaScript, CSS."/>
+</a>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="assets/projects.svg" width="100%" alt="Projects: Gaming Tinder, a game discovery app; Product Gallery, a full-stack product manager; Color Picker, a frontend utility; and the next build slot, in progress." />
+<img src="assets/h-cp.svg" width="100%" alt="Competitive coding"/>
 
-<img src="assets/trace.svg" width="100%" alt="" />
+<img src="assets/cp.svg" width="100%" alt="I regularly practice data structures and algorithms and competitive programming in C++."/>
 
-<img src="assets/section-progress.svg" width="100%" alt="Skill tree, still growing" />
-
-<img src="assets/progress.svg" width="100%" alt="Current progression: React interfaces and Node.js/Express applications; building MERN projects, REST APIs, database design, and DSA; studying operating systems, computer networks, and system design." />
-
-<img src="assets/trace.svg" width="100%" alt="" />
-
-<img src="assets/section-contact.svg" width="100%" alt="Open channels" />
-
-<a href="mailto:shahharshil393@gmail.com"><img src="assets/channel-email.svg" width="30%" alt="Email Harshil" /></a>
-<a href="https://www.linkedin.com/in/harshil-shah-421852420/"><img src="assets/channel-linkedin.svg" width="30%" alt="Harshil on LinkedIn" /></a>
-<a href="https://github.com/shahharshil393"><img src="assets/channel-github.svg" width="30%" alt="Harshil on GitHub" /></a>
+<a href="https://codeforces.com/profile/shahharshil393"><img src="assets/btn-codeforces.svg" width="250" alt="Codeforces profile"/></a>
+<a href="https://leetcode.com/u/shahharshil393"><img src="assets/btn-leetcode.svg" width="250" alt="LeetCode profile"/></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Signal clear. Learn something, build something, repeat." />
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-learning.svg" width="100%" alt="Currently learning"/>
+
+<img src="assets/learning.svg" width="100%" alt="Currently learning: full-stack development with the MERN stack, REST APIs and backend architecture, MongoDB and database design, data structures and algorithms, operating systems, computer networks, software engineering and system design fundamentals."/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-stats.svg" width="100%" alt="System stats"/>
+
+<img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions, current and longest streak, commits, pull requests, stars and repositories"/>
+
+<img src="assets/langs.svg" width="100%" alt="Most used languages across my public repositories"/>
+
+<img src="assets/heatmap.svg" width="100%" alt="Contribution heatmap for the past year"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-connect.svg" width="100%" alt="Connect with me"/>
+
+<a href="mailto:shahharshil393@gmail.com"><img src="assets/btn-email.svg" width="250" alt="Email me on Gmail"/></a>
+<a href="https://www.linkedin.com/in/harshil-shah-421852420/"><img src="assets/btn-linkedin.svg" width="250" alt="LinkedIn profile"/></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Learn, build, solve, repeat."/>
 
 </div>
 
 <details>
-<summary><sub>Plain-text profile (screen readers and search)</sub></summary>
+<summary><sub>Plain-text summary (for screen readers &amp; search)</sub></summary>
 
-**Harshil Shah** is a CSE student and full-stack developer. He builds web applications, practices problem solving, and keeps adding new tools to his loadout. He is currently focused on React, Node.js, Express, and MongoDB.
+<br/>
 
-**Current stack:** React, Vite, JavaScript, HTML, CSS · Node.js, Express · MongoDB, SQL · C++ for data structures and algorithms.
+**Harshil Shah** is a full-stack developer, competitive programmer and CSE student. He builds web applications, solves problems and keeps learning new technologies.
 
-**Projects:**
-- Gaming Tinder — game discovery with recommendations based on preferences and swipe history.
-- Product Gallery — full-stack product management app.
-- Color Picker — a small frontend utility for selecting and working with colors.
+**Focus:** full-stack web development with React, Node.js, Express.js, MongoDB and SQL; data structures and algorithms in C++; strengthening operating systems and computer networks; building full-stack projects from scratch.
 
-**Learning now:** MERN projects, REST APIs, backend architecture, database design, data structures and algorithms, operating systems, computer networks, and system design fundamentals.
+**Projects**
 
-**Profiles:** [Codeforces](https://codeforces.com/profile/shahharshil393) · [LeetCode](https://leetcode.com/u/shahharshil393) · [LinkedIn](https://www.linkedin.com/in/harshil-shah-421852420/) · [Email](mailto:shahharshil393@gmail.com)
+- **Gaming Tinder**: a Tinder-inspired full-stack app where users swipe left or right on games and get recommendations based on their preferences and swipe history. React, Node.js, Express.js, MongoDB.
+- **Product Gallery**: a full-stack CRUD app for managing products, with a React frontend and a Node/Express backend. React, Node.js, Express.js, MongoDB.
+- **Color Picker**: a React application for selecting and working with colors. React, JavaScript, CSS.
+
+**Stack:** C, C++, JavaScript, HTML5, CSS3 · React, Vite · Node.js, Express.js · MongoDB, SQL · Git, GitHub, VS Code
+
+**Currently learning:** MERN stack, REST APIs and backend architecture, MongoDB and database design, data structures and algorithms, operating systems, computer networks, software engineering and system design fundamentals.
+
+**Links:** [Codeforces](https://codeforces.com/profile/shahharshil393) · [LeetCode](https://leetcode.com/u/shahharshil393) · [Email](mailto:shahharshil393@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harshil-shah-421852420/)
+
 </details>

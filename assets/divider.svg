@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 28" width="900" height="28" role="img" aria-label=""><title></title><defs>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<linearGradient id="neonV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1128"/><stop offset="1" stop-color="#05060f"/></linearGradient>
+<linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset="1" stop-color="#00f0ff"/></linearGradient>
+<linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2bd6"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.4" fill="#000" opacity=".28"/></pattern>
+<filter id="g3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="g8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="g16" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs><rect x="30" y="13.3" width="406" height="1.4" fill="url(#fadeL)"/><rect x="464" y="13.3" width="406" height="1.4" fill="url(#fadeR)"/><path d="M441 14L450 8L459 14L450 20Z" fill="#fcee0a"><animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" begin="-0.0s" repeatCount="indefinite"/></path><rect y="12" width="70" height="4" fill="#fff" opacity="0" filter="url(#g3)"><animate attributeName="x" values="30;800" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="4s" repeatCount="indefinite"/></rect></svg>
