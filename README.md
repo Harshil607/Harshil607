@@ -1,137 +1,130 @@
-<h1 align="center">Hi 👋, I'm Harshil Shah</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | Competitive Programmer | CSE Student</h3>
+# 🟣 HARSHIL SHAH // DEVELOPER PROFILE
 
-<p align="center">
-  Building web applications, solving problems, and constantly learning new technologies.
-</p>
+### `FULL-STACK DEVELOPER` · `COMPETITIVE PROGRAMMER` · `CSE STUDENT`
 
----
+**Building web applications. Solving problems. Learning what’s next.**
 
-## 🚀 About Me
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=090014)](#about-me)
+[![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK-FF00E5?style=for-the-badge&labelColor=090014)](#tech-stack)
+[![Location](https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-BB86FC?style=for-the-badge&labelColor=090014)](#currently-learning)
 
-* 💻 Currently focused on **Full-Stack Web Development**
-* ⚛️ Building applications with **React**
-* 🟢 Learning and building backend applications with **Node.js & Express.js**
-* 🍃 Working with **MongoDB** and SQL databases
-* 🧠 Practicing **Data Structures & Algorithms** using C++
-* 🖥️ Currently strengthening my knowledge of **Operating Systems** and **Computer Networks**
-* 🚀 Building full-stack projects from scratch
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` // ABOUT ME
+
+- 💻 Focused on **full-stack web development**
+- ⚛️ Building interfaces with **React**
+- 🟢 Developing backends with **Node.js** and **Express.js**
+- 🍃 Working with **MongoDB** and SQL databases
+- 🧠 Practicing **Data Structures & Algorithms** in C++
+- 🖥️ Strengthening my knowledge of **Operating Systems** and **Computer Networks**
+- 🚀 Building full-stack projects from scratch
+
+---
+
+## `02` // TECH STACK
 
 ### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
 </p>
 
 ### Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="Vite" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="38" alt="Vite" />
 </p>
 
-### Backend
+### Backend & Databases
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="SQL" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="SQL" />
 </p>
 
 ### Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## `03` // FEATURED PROJECTS
 
 ### 🎮 Gaming Tinder
 
-A full-stack application inspired by Tinder where users can swipe left or right on games and receive recommendations based on their preferences and swipe history.
+A full-stack app inspired by Tinder. Swipe through games and get recommendations based on your preferences and swipe history.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+`React` · `Node.js` · `Express.js` · `MongoDB`
 
 ### 🛍️ Product Gallery
 
-A full-stack CRUD application for managing products with a React frontend and Node/Express backend.
+A full-stack CRUD app for managing products, built with a React frontend and Node.js/Express backend.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+`React` · `Node.js` · `Express.js` · `MongoDB`
 
 ### 🎨 Color Picker
 
-A React application for selecting and working with colors.
+A React app for selecting and working with colors.
 
-**Tech:** React • JavaScript • CSS
-
----
-
-## 🧠 Competitive Programming
-
-I regularly practice Data Structures & Algorithms and competitive programming.
-
-<p align="left">
-  <a href="https://codeforces.com/profile/shahharshil393">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/shahharshil393">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+`React` · `JavaScript` · `CSS`
 
 ---
 
-## 📚 Currently Learning
+## `04` // COMPETITIVE PROGRAMMING
 
-* Full-Stack Development with the **MERN Stack**
-* REST APIs & Backend Architecture
-* MongoDB & Database Design
-* Data Structures & Algorithms
-* Operating Systems
-* Computer Networks
-* Software Engineering & System Design fundamentals
+I practice Data Structures & Algorithms and competitive programming.
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=090014)](https://codeforces.com/profile/shahharshil393)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=090014)](https://leetcode.com/u/shahharshil393)
 
 ---
 
-## 📫 Connect With Me
+## `05` // CURRENTLY LEARNING
 
-<p align="left">
-  <a href="mailto:shahharshil393@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshil-shah-421852420/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- MERN stack development
+- REST APIs and backend architecture
+- MongoDB and database design
+- Data Structures & Algorithms
+- Operating Systems and Computer Networks
+- Software Engineering and System Design fundamentals
 
 ---
 
-<h3 align="center">💻 Learn • Build • Solve • Repeat 🚀</h3>
+## `06` // CONNECT
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090014)](mailto:shahharshil393@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090014)](https://www.linkedin.com/in/harshil-shah-421852420/)
+
+<div align="center">
+
+### `LEARN` // `BUILD` // `SOLVE` // `REPEAT`
+
+`[ SYSTEM ONLINE ]`
+
+</div>
